@@ -1,0 +1,23 @@
+Creación de Encuestas:
+
+Facilitar la creación y gestión de encuestas.
+Crear encuestas a partir de un banco de preguntas predefinidas.
+Personalización de encuestas.
+Gestión de Preguntas:
+
+Permitir agregar preguntas a una encuesta desde el banco de preguntas.
+Gestión de Grupos:
+
+Cargar grupos de personas desde archivos CSV.
+Segmentar personas según criterios como edad, género, ubicación, etc.
+Resultados de Encuestas:
+
+Generar informes automáticos con los resultados, incluyendo la tasa de respuesta y análisis estadísticos.
+Acceso a los datos crudos de las encuestas.
+Usuarios del Sistema:
+
+Coordinadores de estudios que crearán y gestionarán las encuestas.
+Analistas que procesarán los resultados.
+Integración:
+
+Integración con el sistema CRM para obtener información de los encuestados de manera automática.
